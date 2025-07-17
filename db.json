@@ -2,8 +2,23 @@
   "tasks": [
     {
       "id": 1,
-      "title": "First Task",
+      "title": "Learn React basics",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Build task tracker app",
       "completed": false
+    },
+    {
+      "title": "walking",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "coding",
+      "completed": false,
+      "id": 4
     }
   ]
 }
